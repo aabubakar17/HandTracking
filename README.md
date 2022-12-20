@@ -2,6 +2,8 @@
 
 This Project allows the lets user use a computer vision software that control the mouse and creates event like clicking through the hand and gesture detection. 
 
+The number at the top of the screen shows the FPS.
+
 Control mouse by moving hand across the screen 
 ![image](https://user-images.githubusercontent.com/56156782/171064778-43dd6864-d64b-47d0-a166-96564984c72f.png)
 
