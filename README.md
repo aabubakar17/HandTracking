@@ -1,6 +1,6 @@
 **Hand Tracking and gesture control With OpenCV**
 
-This Project allows the lets user use a computer vision software that control the mouse and creates event like clicking through the hand and gesture detection. 
+This Project allows the user use a computer vision software that control the mouse and creates event like clicking through the hand and gesture detection. 
 
 The number at the top of the screen shows the FPS.
 
